@@ -2,4 +2,4 @@
 for i in range(97, 123):
     a = chr(i)
     b = str(a)
-    print(b, end="")
+    print("{}".format(b), end="")
