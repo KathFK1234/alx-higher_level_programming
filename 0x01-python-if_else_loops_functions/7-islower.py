@@ -4,9 +4,9 @@ def islower(c):
         a = chr(i)
         b = str(a)
 
-        if (ord('c') != int()):
-            return ("Traceback (most recent call last):")
         if (c == b):
             return (True)
         else:
             return (False)
+        if (ord('c') != int()):
+            return ("Traceback (most recent call last):")
