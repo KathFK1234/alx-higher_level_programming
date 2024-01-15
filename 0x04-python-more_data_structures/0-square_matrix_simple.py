@@ -9,3 +9,4 @@ def square_matrix_simple(matrix=[]):
 
     for x in matrix:
         return (x)
+        return (matrix)
