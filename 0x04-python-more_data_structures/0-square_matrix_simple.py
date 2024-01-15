@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
-    x = len(matrix)
-    y = len(matrix[0])
     z = matrix.copy()
+    x = len(z)
+    y = len(z[0])
 
     for i in range(x):
         for j in range(y):
