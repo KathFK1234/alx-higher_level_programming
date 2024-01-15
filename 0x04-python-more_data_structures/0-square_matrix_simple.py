@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
-    z = matrix.copy()
+    z = [row[:] for row in matrix]
     x = len(z)
     y = len(z[0])
 
