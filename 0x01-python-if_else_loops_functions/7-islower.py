@@ -8,5 +8,5 @@ def islower(c):
             return ("Traceback (most recent call last):")
         elif (c == b):
             return (True)
-        else:
+        elif (c != b):
             return (False)
