@@ -6,7 +6,7 @@ def islower(c):
 
         if (c == b):
             return (True)
-        elif (ord('c') != int()):
-            return ("Traceback (most recent call last):")
         else:
             return (False)
+        if (ord('c') != int()):
+            return ("Traceback (most recent call last):")
