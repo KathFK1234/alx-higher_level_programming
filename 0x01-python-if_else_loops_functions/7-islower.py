@@ -8,5 +8,5 @@ def islower(c):
             return (True)
         else:
             return (False)
-        if (ord('c') != int()):
+        if (ord(c) != int()):
             return ("Traceback (most recent call last):")
