@@ -6,4 +6,4 @@ for i in range(10):
         if (str(i) + str(j))[0] == (str(j) + str(i))[0]:
             continue
         else:
-            print("".format(str(i) + str(j)), end=", " if str(i) + str(j) != "89" else "")
+            print("{}".format(str(i) + str(j)), end=", " if str(i) + str(j) != "89" else "")
