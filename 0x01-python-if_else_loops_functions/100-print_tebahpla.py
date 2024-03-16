@@ -6,4 +6,4 @@ for value in range(122, 96, -1):
     else:
         letter = chr(value).upper()
     letters = "".join(letter)
-    print(letters, end="")
+    print("{}".format(letters), end="")
