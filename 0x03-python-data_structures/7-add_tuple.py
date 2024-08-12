@@ -10,5 +10,5 @@ def add_tuple(tuple_a=(), tuple_b=()):
                 d = int(tuple_a[1] + 0)
             elif len(tuple_a) < 2 and len(tuple_b) < 2:
                 d = (0 + 0)
-            tuple_new = (c,d)
+            tuple_new = (c, d)
             return (tuple_new)
