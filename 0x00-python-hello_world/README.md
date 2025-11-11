@@ -89,8 +89,8 @@ Write a Python script that prints exactly `"Programming is like building a multi
 - File: `2-print.py`
 
 ### 3. Print integer
-Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable number, followed by `Battery street`, followed by a new line.
-- You can find the source code [here] (https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py) 
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable number, followed by `Battery street`, followed by a new line.
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/3-print_number.py) 
 - The output of the script should be:
 1. the number, followed by `Battery street`,
 2. followed by a new line
