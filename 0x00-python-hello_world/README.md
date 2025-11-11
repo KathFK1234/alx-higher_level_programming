@@ -101,7 +101,7 @@ Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/3-p
 
 ### 4. Print float
 Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits.
-- You can find the source code [here] (https://github.com/alx-tools/0x00.py/blob/master/4-print_float.py)
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/4-print_float.py)
 - The output of the program should be:
 1. `Float`:, followed by the float with only 2 digits
 2. followed by a new line
@@ -110,8 +110,8 @@ Complete the source code in order to print the float stored in the variable `num
 - File: `4-print_float.py`
 
 ### 5. Print string
-Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.
-- You can find the source code [here] (https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py)
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py)
 - The output of the program should be:
 1. 3 times the value of `str`
 2. followed by a new line
@@ -122,16 +122,16 @@ Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/5-
 - File: `5-print_string.py`
 
 ### 6. Play with strings
-Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/6-concat.py) to print Welcome to ALX
-- You can find the source code [here] (https://github.com/alx-tools/0x00.py/blob/master/6-concat.py)
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/6-concat.py) to print Welcome to ALX
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/6-concat.py)
 - You are not allowed to use any loops or conditional statements.
 - You have to use the variables `str1` and `str2` in your new line of code
 - Your program should be exactly 5 lines long
 - File: `6-concat.py`
 
 ### 7. Copy - Cut - Paste
-Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
-- You can find the source code [here] (https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
 - You are not allowed to use any loops or conditional statements
 - Your program should be exactly 8 lines long
 - `word_first_3` should contain the first 3 letters of the variable word
@@ -140,8 +140,8 @@ Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/7-
 - File: `7-edges.py`
 
 ### 8. Create a new sentence
-Complete this [source code] (https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
-- You can find the source code [here] (https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py)
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/8-concat_edges.py)
 - You are not allowed to use any loops or conditional statements
 - Your program should be exactly 5 lines long
 - You are not allowed to create new variables
